@@ -5,16 +5,17 @@ date: 2025-07-30T00:00:00+00:00
 author: irojasr
 layout: page
 ---
-# Vivian De Leon
+# Ignacio Rojas
 <div style="text-align: center;">
-  <img src="https://japan-figure.com/cdn/shop/products/Bushiroad-Sleeve-Collection-High-Grade-Vol.3449-QuotChikawaQuot-Japan-Figure-4582692206879-0.jpg?v%3D1682432449&tbnid=M1qcq6xpho6EFM&vet=1&imgrefurl=https://japan-figure.com/products/bushiroad-sleeve-collection-high-grade-vol3449-japan-chikawa?srsltid%3DAfmBOorjIiQpp5sQX5QrYNet6PI4VpKhBwxSilov5peun-UqgT54ZfJ7&docid=USODmcpotB-tzM&w=600&h=437&source=sh/x/im/m5/0&kgs=73fc9e129c865887&shem=shrtsdl&utm_source=shrtsdl,sh/x/im/m5/0" width="650pt" alt="atiendes?" style="border-radius: 10px;" />
+  <img src="https://i.postimg.cc/y8vZhVX9/mfw-Dresden.jpg" width="650pt" alt="photo of Ignacio Rojas in Dresden Hbf" style="border-radius: 10px;" />
 </div>
 
 <div style="max-width: 800px; margin: 0 auto; padding-top: 1em;">
   I am a graduate student at <a href="https://mathematics.colostate.edu">Colorado State University</a>, 
-  studying under <a href="https://sites.google.com/view/renzocavalieri/">Ben Knudsen</a>.
+  studying under <a href="https://sites.google.com/view/renzocavalieri/">Renzo Cavalieri</a>.
   <br /><br />
-  My main area of work is algebraic topology. 
+  My main area of work is algebraic geometry and combinatorics. My work is focused right now on 
+  intersection theory of the moduli space of curves and the moduli space of maps.
 </div>
 
 &nbsp;
